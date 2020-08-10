@@ -4,7 +4,7 @@ int main()
 {
 	int a=5,b=6;
 	printf("numbers before swapping are: %d \t %d",a,b);
-	// these are the equatiomns used for swapping the variablrs whithout using the temprary variable
+	// these are the equations  used for swapping the variables whithout using the temprary variable
 	a=a+b;//a=11
 	b=a-b;//b=11-6=5
 	a=a-b;//a=11-5=6
